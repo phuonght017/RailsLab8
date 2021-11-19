@@ -1,0 +1,2 @@
+module FriendNumHelper
+end
